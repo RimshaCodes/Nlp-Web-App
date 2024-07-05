@@ -5,6 +5,7 @@ This repository contains a web application for Named Entity Recognition (NER) us
 ## Features
 **Named Entity Recognition** (NER):
 Process paragraphs and identify named entities such as persons, organizations, and locations.
+
 **User Registration and Login**:
 Secure authentication system using Flask sessions and storing user information in JSON files.
 
