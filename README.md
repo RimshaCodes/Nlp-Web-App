@@ -28,8 +28,8 @@ cd nlp-web-app
 ### Run the application:
 python app.py
 
-### Usage
-## Registration: 
+## Usage
+### Registration: 
 Create a new user account.
 
 ### Login:
