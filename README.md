@@ -3,9 +3,9 @@ This repository contains a web application for Named Entity Recognition (NER) us
 
 
 ## Features
-### Named Entity Recognition (NER):
+**Named Entity Recognition** (NER):
 Process paragraphs and identify named entities such as persons, organizations, and locations.
-### User Registration and Login:
+**User Registration and Login**:
 Secure authentication system using Flask sessions and storing user information in JSON files.
 
 
@@ -20,20 +20,20 @@ Secure authentication system using Flask sessions and storing user information i
 
 
 ## Setup Instructions
-### Clone the repository:
+**Clone the repository**:
 git clone https://github.com/your-username/nlp-web-app.git
 
 cd nlp-web-app
 
-### Run the application:
+**Run the application**:
 python app.py
 
 ## Usage
-### Registration: 
+**Registration**: 
 Create a new user account.
 
-### Login:
+**Login**:
 Access the NER functionality after logging in.
 
-### NER Processing:
+**NER Processing**:
 Enter paragraphs to perform NER using the Eden API.
