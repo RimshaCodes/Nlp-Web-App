@@ -25,7 +25,7 @@ Secure authentication system using Flask sessions and storing user information i
 ## Setup Instructions
 **Clone the repository**:
 
-git clone https://github.com/your-username/nlp-web-app.git
+git clone https://github.com/RimshaCodes/Nlp-Web-App
 
 cd nlp-web-app
 
