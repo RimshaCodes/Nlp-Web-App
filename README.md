@@ -3,7 +3,7 @@ This repository contains a web application for Named Entity Recognition (NER) us
 
 
 ## Features
-**Named Entity Recognition** (NER):
+**Named Entity Recognition (NER)**:
 
 Process paragraphs and identify named entities such as persons, organizations, and locations.
 
@@ -43,4 +43,5 @@ Create a new user account.
 Access the NER functionality after logging in.
 
 **NER Processing**:
+
 Enter paragraphs to perform NER using the Eden API.
